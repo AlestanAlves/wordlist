@@ -4,6 +4,7 @@ Collection of some common wordlists such as RDP password, user name list, ssh pa
 
 The following is an alphabetical list of IP camera manufacturers and their default usernames and passwords. The goal is to help users quickly get started with cameras. At the bottom of the post, we examine the use and security concerns of using default passwords.
 
+
 For each manufacturer, we list the username first and pasword section in the following format: username/password:
 
 * ACTi: admin/123456 or Admin/123456
